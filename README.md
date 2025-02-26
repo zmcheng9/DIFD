@@ -1,4 +1,4 @@
-# DIFD for few-shot medical image segmentation
+# DIFD for FSMIS
 
 
 ### Abstract
