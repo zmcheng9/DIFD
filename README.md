@@ -37,3 +37,16 @@ Pre-processing is performed according to [Ouyang et al.](https://github.com/chen
 
 ### Inference
 Run `./script/evaluate.sh` 
+
+### Citation
+```
+@ARTICLE{cheng2024few,
+  author={Cheng, Ziming and Wang, Shidong and Xin, Tong and Zhou, Tao and Zhang, Haofeng and Shao, Ling},
+  journal={IEEE Transactions on Medical Imaging}, 
+  title={Few-Shot Medical Image Segmentation via Generating Multiple Representative Descriptors}, 
+  year={2024},
+  volume={43},
+  number={6},
+  pages={2202-2214}
+  doi={10.1109/TMI.2024.3358295}}
+```
